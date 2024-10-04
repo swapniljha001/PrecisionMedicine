@@ -18,3 +18,7 @@ Project Module at the University of Potsdam
 - https://medium.com/analytics-vidhya/learn-data-science-using-crisp-dm-framework-473960b2da90
 - https://www.researchgate.net/post/How_to_choose_bits_and_radius_during_circular_fingerprint_calculation_in_RDKit
 - https://stackoverflow.com/questions/77986894/why-morgan-fingerprints-for-the-molecules-in-my-data-does-not-plateaus-with-incr
+
+## Made by
+- [Swapnil Jha](https://www.linkedin.com/in/swapniljha001/)
+- [Milena Voskanyan](https://www.linkedin.com/in/milena-voskanyan-1865a120b)
