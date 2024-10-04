@@ -1,0 +1,18 @@
+Overall Code-
+
+- https://github.com/Abdulk084/Chemception?tab=readme-ov-file
+- https://www.cheminformania.com/learn-how-to-teach-your-computer-to-see-chemistry-free-chemception-models-with-rdkit-and-keras/
+- https://arxiv.org/abs/1706.06689
+- https://arxiv.org/abs/1710.02238
+- https://medium.com/analytics-vidhya/target-encoding-vs-one-hot-encoding-with-simple-examples-276a7e7b3e64
+- https://medium.com/analytics-vidhya/categorical-embedder-encoding-categorical-variables-via-neural-networks-b482afb1409d
+- https://www.reddit.com/r/datascience/comments/1ayhbxb/downsides_of_target_encoding_compared_to_one_hot/
+- https://medium.com/analytics-vidhya/learn-data-science-using-crisp-dm-framework-473960b2da90
+
+
+
+Fingerprints-
+
+- https://www.researchgate.net/post/How_to_choose_bits_and_radius_during_circular_fingerprint_calculation_in_RDKit
+- https://stackoverflow.com/questions/77986894/why-morgan-fingerprints-for-the-molecules-in-my-data-does-not-plateaus-with-incr
+- https://chatgpt.com/share/fe42416c-8cad-44ee-9825-207d5d5a82ae (Fingerprint Methods)
