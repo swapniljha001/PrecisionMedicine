@@ -2,7 +2,7 @@
 Project Module at the University of Potsdam
 
 ## Project Proposal
-- [Comparative Analysis- Chemception Embedding vs. SMILES Codes.pdf](https://github.com/swapniljha001/PrecisionMedicine/blob/main/Comparative%20Analysis_%20Chemception%20Embedding%20vs.%20SMILES%20Codes.pdf)
+- [Comparative Analysis- Chemception Embedding vs. Chemical Fingerprinting.pdf](https://github.com/swapniljha001/PrecisionMedicine/blob/main/Comparative%20Analysis-%20Chemception%20Embedding%20vs.%20Chemical%20Fingerprinting.pdf)
 
 ## Previous Literature
 - Goh, G. B. et al. (2017). Chemception: a deep neural network with minimal chemistry knowledge matches the performance of expert-developed QSAR/QSPR models. arXiv preprint [arXiv:1706.06689.](https://arxiv.org/abs/1706.06689)
